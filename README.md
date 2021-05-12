@@ -1,6 +1,7 @@
 #Softcat monitoring team
 
-*(@Monitoring-Team-Softcat)*
+This is the public bit of this page, the rest is accessible ony by us here at Softcat.
+
 
 ##Description
 A private repsoitroy for code that use 
@@ -10,4 +11,7 @@ A private repsoitroy for code that use
 - PowerFlow API
 - Anything else
 
-monitoringteam@sfotcat.com
+
+*@Monitoring-Team-Softcat*
+*@yaquaholic*
+Email: monitoringteam@sfotcat.com
