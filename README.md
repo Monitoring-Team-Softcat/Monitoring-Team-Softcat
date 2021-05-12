@@ -1,9 +1,9 @@
-#Softcat monitoring team
+**Softcat monitoring team**
 
-This is the public bit of this page, the rest is accessible ony by us here at Softcat.
+This is the public bit of this page, the rest is accessible only by us here at Softcat.
 
 
-##Description
+**Description**
 A private repsoitroy for code that use 
 - ScienceLogic API - Python
 - SolarWinds API and SWQL
